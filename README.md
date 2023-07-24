@@ -19,18 +19,21 @@ While Cozy Cafe started as a personal project for our group assignment, it quick
 
 2.Connect to the cozy_cafe database:
 `\c cozy_cafe;`
+
 3.Create the employees table:
 `CREATE TABLE employees (
     id SERIAL PRIMARY KEY,
     name VARCHAR(100) NOT NULL,
     position VARCHAR(100) NOT NULL
 );`
+
 4.Create the menu table:
 `CREATE TABLE menu (
     id SERIAL PRIMARY KEY,
     item VARCHAR(100) NOT NULL,
     price NUMERIC(10, 2) NOT NULL
 );`
+
 5.Create the transactions table:
 `CREATE TABLE transactions (
     transaction_id SERIAL PRIMARY KEY,
@@ -39,6 +42,7 @@ While Cozy Cafe started as a personal project for our group assignment, it quick
     quantity INT NOT NULL,
     total_price NUMERIC(10, 2) NOT NULL
 );`
+
 
 
 
