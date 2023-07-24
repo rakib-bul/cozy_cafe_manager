@@ -14,9 +14,6 @@ db = psycopg2.connect(
 
 cursor = db.cursor()
 
-# Rest of the code remains unchanged...
-# (Please keep the rest of your code as it is)
-
 
 # Main application window
 window = Tk()
