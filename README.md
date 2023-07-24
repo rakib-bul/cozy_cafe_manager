@@ -1,5 +1,5 @@
 # Cozy Cafe
-![cozy cafe](/home/rakib/Projects/cozy_cafe_manager/cozy_01.png)
+![cozy cafe](https://github.com/rakib-bul/cozy_cafe_manager/blob/main/cozy_01.png)
 
 <div align="center"> A simple lightweight POS system for small cafe and fastfood shop.</div>
 
