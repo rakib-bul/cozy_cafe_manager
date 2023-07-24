@@ -43,6 +43,7 @@ While Cozy Cafe started as a personal project for our group assignment, it quick
     total_price NUMERIC(10, 2) NOT NULL
 );`
 
+**You will need python3 and tkinter to run the program***
 
 
 
