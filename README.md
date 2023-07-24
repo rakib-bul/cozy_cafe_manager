@@ -15,7 +15,7 @@ While Cozy Cafe started as a personal project for our group assignment, it quick
 
 ### Setting Up PSQL
 First Create Database:
-'CREATE DATABASE cozy_cafe;'
+`CREATE DATABASE cozy_cafe;`
 
 
 
