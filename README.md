@@ -13,9 +13,13 @@ While Cozy Cafe started as a personal project for our group assignment, it quick
 <div align="center"> Looking back, I cherish the memories of our bustling food cart, where Cozy Cafe played a vital role in fostering a warm and inviting atmosphere. The project not only taught me about software development but also about collaboration, creativity, and the joy of bringing innovative solutions to real-life challenges.</div>
 
 
-### Setting Up PSQL
-First Create Database:
+### Setting Up PostgreSQL
+1.Create Database
 `CREATE DATABASE cozy_cafe;`
+
+2.Connect to the cozy_cafe database
+`\c cozy_cafe;`
+
 
 
 
