@@ -1,5 +1,3 @@
-![Alt text](https://drive.google.com/file/d/1R47slg-JNr9ZO0pQphHjZiq9OUWdoRqL/view?usp=sharing )
-
 <div align="center"># Cozy Cafe </div>
 <dv align="center"> A simple lightweight POS system for small cafe and fastfood shop.</div>
 
