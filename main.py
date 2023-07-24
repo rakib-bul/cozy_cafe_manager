@@ -5,9 +5,9 @@ from tkinter import *
 
 # Connect to PostgreSQL database
 db = psycopg2.connect(
-    dbname="cozy_cafe",
-    user="rakib",
-    password="jami",
+    dbname="your database name",
+    user="user name",
+    password="your password",
     host="localhost",
     port="5432"
 )
