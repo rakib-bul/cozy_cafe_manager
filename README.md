@@ -1,5 +1,5 @@
-<div align="center"># Cozy Cafe </div>
-<dv align="center"> A simple lightweight POS system for small cafe and fastfood shop.</div>
+# Cozy Cafe
+<div align="center"> A simple lightweight POS system for small cafe and fastfood shop.</div>
 
 <div align="center"> During my time in the E-commerce course for Management Information Systems, I had the wonderful opportunity to collaborate with five other talented students on an exciting group assignment. Our mission was to create a food cart on campus and operate it as a small cafe and fast-food shop. To streamline our sales and keep track of our business transactions, I took the initiative to develop a delightful and user-friendly Point of Sale (POS) system, which I lovingly named "Cozy Cafe." </div>
 
